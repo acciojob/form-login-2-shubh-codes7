@@ -6,6 +6,6 @@ btn.addEventListener("click", () => {
 	let lname = document.querySelector("#lname").value;
 	let phone = document.querySelector("#tel").value;
 	let email = document.querySelector("#email").value;
-	alert(`First Name: ${fname} Last Name: ${lname} Phone Number: ${phone} Email ID: ${email}`)
+	// alert(`First Name: ${fname} Last Name: ${lname} Phone Number: ${phone} Email ID: ${email}`)
 })
 
